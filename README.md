@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 SmartEMS — Smart Employee Management System
 
 > **Enterprise-grade HRMS built with ASP.NET Core 8 + Angular 19 + SQL Server**
@@ -235,3 +236,6 @@ ng build --configuration production
 ---
 
 *Built for placement-level demonstration — SmartEMS 2025*
+=======
+# EMPLOYE-MANAGEMENT-SYSTEM
+>>>>>>> b530491d18178bcb79ef383e2bb6bd5b1288b0b6
