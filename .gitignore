@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Angular
+dist/
+tmp/
+out-tsc/
+bazel-out/
+.angular/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
