@@ -235,7 +235,7 @@ ng build --configuration production
 
 ---
 
-*Built for placement-level demonstration — SmartEMS 2025*
+*Built for placement-level demonstration — SmartEMS 2026*
 =======
 # EMPLOYE-MANAGEMENT-SYSTEM
 >>>>>>> b530491d18178bcb79ef383e2bb6bd5b1288b0b6
